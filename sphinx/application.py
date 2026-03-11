@@ -117,6 +117,7 @@ builtin_extensions: tuple[str, ...] = (
     'sphinx.transforms.post_transforms',
     'sphinx.transforms.post_transforms.code',
     'sphinx.transforms.post_transforms.images',
+    'sphinx.ext.agentskills',
     'sphinx.versioning',
     # collectors should be loaded by specific order
     'sphinx.environment.collectors.dependencies',

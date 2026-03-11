@@ -21,6 +21,7 @@ These extensions are built in and can be activated by respective entries in the
 .. toctree::
    :maxdepth: 1
 
+   agentskills
    apidoc
    autodoc
    autosectionlabel

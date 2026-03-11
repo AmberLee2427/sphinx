@@ -11,6 +11,8 @@ Dependencies
 Features added
 --------------
 
+* Added :mod:`sphinx.ext.agentskills`, a new builder that generates agent-facing
+  :file:`SKILL.md` documentation maps from the build-time documentation structure.
 * Add :meth:`~sphinx.application.Sphinx.add_static_dir` for copying static
   assets from extensions to the build output.
   Patch by Jared Dillard
